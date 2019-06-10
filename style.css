@@ -1,7 +1,7 @@
 body {
     background-image: url(https://wallpaper-gallery.net/images/blue-wallpaper-abstract/blue-wallpaper-abstract-5.jpg);
 }
-#sky {
+.sky {
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
    font-size: 1000%;
    font-style: bold;
@@ -20,7 +20,7 @@ body {
     text-decoration: none;
     outline: none;
     color:black;
-    background-color: aquamarine;
+    background-color: gray;
     border: none;
     border-radius: 15px;
     box-shadow: 0 9px #999;
