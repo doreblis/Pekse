@@ -2,5 +2,9 @@ body {
     background-image: url(https://wallpaper-gallery.net/images/blue-wallpaper-abstract/blue-wallpaper-abstract-5.jpg);
 }
 .sky {
-    image-orientation: center
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: 400%;
+   font-style: normal;
+   text-align: center;
+   color: skyblue
 }
