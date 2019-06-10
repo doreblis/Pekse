@@ -5,7 +5,7 @@ image-resolution: 1920 x 1080
 
 .sky {
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-   font-size: 500%;
+   font-size: 1500%;
    font-style: bold;
    text-align: center;
    color: skyblue;
@@ -13,21 +13,15 @@ image-resolution: 1920 x 1080
 }
 
 .btn {
-    font-size: 200%;
+    font-size: 300%;
     font-family: Arial, Helvetica, sans-serif;
     cursor: pointer;
     text-align: center;
     color:whitesmoke;
   }
   
-  .btn:hover {
-      background-color: aqua;
-    color:black
-}
+  .btn:hover {color:black}
 
-  
-  .btn:active {
-    transform: translateY(200%);
 
 // -----------------
 // FOLLOW US BUTTONS
@@ -37,11 +31,11 @@ image-resolution: 1920 x 1080
 // Variables
 // ---------
 $button-gutter: 8px;
-$button-size: 48px;
-$icon-size: 24px;
+$button-size: 250%;
+$icon-size: 300%;
 $icon-color: #fff;
 $icon-bg: hsl(0,0%,70%);
-$icon-radius: 50%;
+$icon-radius: 150%;
 $icon-shadow: rgba(#000,0.2) 0 2px 6px;
 $icon-transition: transform cubic-bezier(.4,0,.2,1), box-shadow linear, background-color linear;
 $icon-transition-duration: 400ms;
